@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T12:00:43.876060Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Wine Tours",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Wine Tasting",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Restaurants",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Transhumance Festivals",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Additional Tips: Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. • Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase space. • Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "• Place de l'Horloge : The main square in Avignon, this lively area is surrounded by cafes, restaurants, and historic buildings, including the 19th-century town hall and opera house. Aix-en-Provence: A City of Art and Culture History Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul Cézanne. • Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• Châteauneuf-du-Pape : Visit this famous wine region near Avignon. • Bandol : Taste the robust red wines and refreshing rosés of this coastal region. • Bordeaux : Take a day trip to the world-renowned wine region and visit its prestigious châteaux.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. • La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. • La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, oﬀering a luxurious dining experience with a focus on Provençal cuisine.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Although modern transportation has replaced much of the traditional practice, transhumance festivals are still celebrated in many villages, particularly in Saint- Rémy-de-Provence in May. Played with metal balls on a gravel surface, the objective is to throw the balls as close as possible to a small wooden ball called the cochonnet. Pétanque is more than just a game; it's a social activity that brings people together in village squares and parks.",
+      "page_number": 2
+    }
+  ]
+}
